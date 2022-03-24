@@ -6,5 +6,6 @@ This repository contains NMRium resources for the [advanced NMRium online course
 
 | Item | JSON | NMRium |
 |---|---|---|---|
-| Example 1 | [JSON file](https://jliermann.github.io/nmrium_mmoc_res_1/toc1.json) | [NMRium link](https://www.nmrium.org/nmrium#?toc=https://jliermann.github.io/nmrium_mmoc_res_1/toc1.json) |
-| Example 2 | [JSON file](https://jliermann.github.io/nmrium_mmoc_res_1/toc2.json) | [NMRium link](https://www.nmrium.org/nmrium#?toc=https://jliermann.github.io/nmrium_mmoc_res_1/toc2.json) |
+| Example 1 | [JSON file](https://jliermann.github.io/nmrium_mmoc_res_2/toc1.json) | [NMRium link](https://www.nmrium.org/nmrium#?toc=https://jliermann.github.io/nmrium_mmoc_res_2/toc1.json) |
+| Example 2 | [JSON file](https://jliermann.github.io/nmrium_mmoc_res_2/toc2.json) | [NMRium link](https://www.nmrium.org/nmrium#?toc=https://jliermann.github.io/nmrium_mmoc_res_2/toc2.json) |
+| Example 3 | [JSON file](https://jliermann.github.io/nmrium_mmoc_res_2/toc3.json) | [NMRium link](https://www.nmrium.org/nmrium#?toc=https://jliermann.github.io/nmrium_mmoc_res_2/toc3.json) |
