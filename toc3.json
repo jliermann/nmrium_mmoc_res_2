@@ -1,0 +1,18 @@
+[
+  {
+    "file": "./example1/example1.json",
+    "title": "Teil 1",
+    "view": ""
+  },
+  {
+    "file": "./example2/example2.json",
+    "title": "Teil 2",
+    "view": ""
+  },
+  {
+    "file": "./example3/example3.json",
+    "title": "Teil 3",
+    "view": "",
+    "selected": true
+  }
+]
