@@ -3,7 +3,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example2/1h.dx"
+          "jcampURL": "./1h.dx"
         },
         "display": {
           "name": "1H FID",
@@ -13,7 +13,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example2/13c.dx"
+          "jcampURL": "./13c.dx"
         },
         "display": {
           "name": "13C FID",

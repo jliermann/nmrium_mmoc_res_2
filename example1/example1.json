@@ -3,7 +3,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example1/1h.dx"
+          "jcampURL": "./1h.dx"
         },
         "display": {
           "name": "1H FID",
@@ -13,7 +13,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example1/13c.dx"
+          "jcampURL": "./13c.dx"
         },
         "display": {
           "name": "13C FID",
@@ -23,7 +23,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example1/cosy.dx"
+          "jcampURL": "./cosy.dx"
         },
         "display": {
           "name": "COSY",
@@ -33,7 +33,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example1/hsqc.dx"
+          "jcampURL": "./hsqc.dx"
         },
         "display": {
           "name": "HSQC",
@@ -43,7 +43,7 @@
       {
         "data": {},
         "source": {
-          "jcampURL": "./example1/hmbc.dx"
+          "jcampURL": "./hmbc.dx"
         },
         "display": {
           "name": "HMBC",
